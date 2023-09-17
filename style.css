@@ -380,6 +380,7 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
+        /* background-image: url(img/phonebooth.jpg); */
         background: #1092de;
         position: fixed;
         top: 0;
